@@ -1,0 +1,10 @@
+{
+    "username": "Admin",
+    "password": "admin123",
+    "orangeHRM": "OrangeHRM",
+    "login": "Login",
+    "credTextUsername": "Username : Admin",
+    "credTextPassword": "Password : admin123",
+    "dashboardUrl": "dashboard/index",
+    "resetPasswordUrl": "auth/requestPasswordResetCode"
+}
