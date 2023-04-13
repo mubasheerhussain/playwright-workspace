@@ -1,0 +1,13 @@
+{
+    "recruitmentPageUrl": "recruitment/viewCandidates",
+    "dashboardUrl": "dashboard/index",
+    "addCandidateUrl": "recruitment/addCandidate",
+    "firstname": "Robert",
+    "middlename": "Downey",
+    "lastname": "Jr",
+    "email": "robertdowneyjr@gmail.com",
+    "contact": "7139342408",
+    "fileUpload": "C:/Users/mubasheerm/Downloads/test.pdf",
+    "keywords": "This is a comma separated keywords, which has been typed for testing purpose.",
+    "notes": "This is a sample notes, to test orangeHRM application using playwright."
+}
